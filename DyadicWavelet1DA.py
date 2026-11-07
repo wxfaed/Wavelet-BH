@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import scienceplots
-plt.style.use(['science','ieee'])
+#import scienceplots
+#plt.style.use(['science','ieee'])
 
 N=128
 t = np.linspace(0,1,N, endpoint=False)

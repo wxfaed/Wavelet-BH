@@ -11,8 +11,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
 import pywt
-import scienceplots
-plt.style.use('science')
+#import scienceplots
+#plt.style.use('science')
 
 ## Generate the signal
 N = 512
